@@ -2,7 +2,6 @@
 
 Air application - 
 
-گرافیک  -
 
 Adobe XD - 
 
