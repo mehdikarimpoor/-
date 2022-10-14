@@ -22,6 +22,8 @@ Arduino -
 
 Micropython - 
 
+Iot  - هوشمند سازی
+
 Smart Home  - خانه هوشمند
 
 Fritzing - 
