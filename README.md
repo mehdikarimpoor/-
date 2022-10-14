@@ -2,11 +2,14 @@
 
 Air application - 
 
-گرافیک  - 
+گرافیک  -
+
 Adobe XD - 
+
 
 Restful api - 
 تدوین و تیزر after effect و EDIUS - 
+
 
 Animation - 
 
