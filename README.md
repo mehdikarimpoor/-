@@ -2,15 +2,11 @@
 
 Air application - 
 
-
 Adobe XD - 
-
-
 
 Restful api - 
 
-تدوین و تیزر after effect و EDIUS - 
-
+EDIUS - After Effect
 
 Animation - 
 
