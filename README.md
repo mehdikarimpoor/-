@@ -22,7 +22,7 @@ Arduino -
 
 Micropython - 
 
-خانه هوشمند
+Smart Home  - خانه هوشمند
 
 Fritzing - 
 
