@@ -1,4 +1,5 @@
 فوق دیپلم برق صنعتی از دانشگاه شهید بهشتی کرج
+
 Air application - 
 
 گرافیک  - 
@@ -6,14 +7,23 @@ Adobe XD -
 
 Restful api - 
 تدوین و تیزر after effect و EDIUS - 
+
 Animation - 
+
 Vector - 
+
 Adobe animate - 
+
 Unity3D - 
+
 Photoshop - 
+
 Arduino - 
+
 Micropython - 
+
 Fritzing - 
+
 GitHub - 
 برنامه های office - 
 
