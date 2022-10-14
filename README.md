@@ -38,7 +38,7 @@ https://tejaratfamily.ir
 
 https://postkhoone.post.ir
 
-نمونه کار ویدئویی و انیمیشن
+نمونه کار ویدئویی
 
 https://dastrasapp.ir
 
