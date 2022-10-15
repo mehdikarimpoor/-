@@ -21,17 +21,6 @@ Unity3D -
 
 Photoshop - 
 
-Arduino - 
-
-Micropython - 
-
-Iot  - هوشمند سازی
-
-Smart Home  - خانه هوشمند
-
-Iot  -  ساختن برد و دستگاه های
-
-Fritzing - 
 
 GitHub - 
 برنامه های office - 
